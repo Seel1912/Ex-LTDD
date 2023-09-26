@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ex2 UI</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login_me">Register</string>
+    <string name="phone">Phone</string>
+    <string name="mail_email_com">mail@email.com</string>
+    <string name="back">Back</string>
+    <string name="setting_button">Setting BT</string>
+    <string name="profile">Sign Up</string>
+    <string name="avatar">Avatar</string>
+    <string name="profile_name">Profile Name\nDang Huy Hoang-2050541200125</string>
+    <string name="_3">3</string>
+    <string name="mememe">Dang Huy Hoang\n2050541200125</string>
+</resources>
